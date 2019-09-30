@@ -1,5 +1,5 @@
 # LinuxScriptDump
-Linux scrpits for personalising my every changing DEs.
+Linux scrpits for personalising my ever changing DEs.
 
 #### Script Descriptions:
 
