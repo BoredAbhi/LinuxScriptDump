@@ -1,0 +1,8 @@
+To remove the Title Bar from deepin follow as below:
+
+1. install devilspie
+2. run mkdir -p ~/.devilspie && echo -e '(if (matches "" ".*") (undecorate ))\n(debug)' > ~/.devilspie/undecorate-my-windows.ds && devilspie &
+3. ???
+4. Profit
+
+Source : https://bbs.deepin.org/archiver/?tid-148923.html
